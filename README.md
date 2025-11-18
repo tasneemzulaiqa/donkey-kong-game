@@ -1,6 +1,9 @@
 # **Shadow Donkey Kong Overview**
 Shadow Donkey Kong is a classic platformer game built in Java, inspired by the original arcade-style Donkey Kong. Players control Mario to navigate obstacles, climb ladders, jump on platforms, and defeat Donkey Kong using hammers. The game features 2 levels, enemies, and interactive objects, demonstrating core object-oriented programming concepts and event-driven game mechanics.**
 
+> **Note:** This project was completed as part of a university assignment for Object Oriented Software Development (2025) at the University of Melbourne.
+---
+
 ## **Features Implemented**
 - **Player Mechanics**:
    - Walk, jump, and land on platforms
@@ -37,5 +40,4 @@ Shadow Donkey Kong is a classic platformer game built in Java, inspired by the o
 2. Implemented collision detection and game physics for a 2D platformer
 3. Managed game state, scoring, and interactions between multiple object types
 4. Used Git for version control and project tracking
-
 
